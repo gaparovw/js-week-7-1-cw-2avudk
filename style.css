@@ -1,0 +1,14 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+.img {
+  width: 50px;
+}
+table {
+  border: 3px solid green;
+}
+td {
+  border: 1px solid black;
+  text-align: center;
+}
